@@ -48,13 +48,15 @@ p {
 
 
 div ul{
+    padding-left: 5%;
+    padding-right: 5%;
     display: flex;
     flex-wrap: wrap;
     list-style: none;
 }
 
 div img {
-    width: 450px;
+    width: 350px;
     margin: 5px;
 }
 
